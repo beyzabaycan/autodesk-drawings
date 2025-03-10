@@ -20,4 +20,4 @@ A collection of objects, created for learning purposes:
 ![Object 3](images/objects3.jpeg)  
 
 ## About  
-This site is part of a visualization project aimed at [briefly mention purpose, e.g., home design, 3D modeling, object placement].  
+This site is part of a visualization project aimed at showcasting my learning path.
